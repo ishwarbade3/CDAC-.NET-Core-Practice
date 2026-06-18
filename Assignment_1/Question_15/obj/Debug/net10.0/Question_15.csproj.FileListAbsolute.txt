@@ -1,0 +1,14 @@
+C:\.NET_CSharp\Assignment_1\Question_15\bin\Debug\net10.0\Question_15.exe
+C:\.NET_CSharp\Assignment_1\Question_15\bin\Debug\net10.0\Question_15.deps.json
+C:\.NET_CSharp\Assignment_1\Question_15\bin\Debug\net10.0\Question_15.runtimeconfig.json
+C:\.NET_CSharp\Assignment_1\Question_15\bin\Debug\net10.0\Question_15.dll
+C:\.NET_CSharp\Assignment_1\Question_15\bin\Debug\net10.0\Question_15.pdb
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.AssemblyInfoInputs.cache
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.AssemblyInfo.cs
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.csproj.CoreCompileInputs.cache
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.dll
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\refint\Question_15.dll
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.pdb
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\Question_15.genruntimeconfig.cache
+C:\.NET_CSharp\Assignment_1\Question_15\obj\Debug\net10.0\ref\Question_15.dll

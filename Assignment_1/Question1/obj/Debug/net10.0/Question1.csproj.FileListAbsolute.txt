@@ -1,0 +1,14 @@
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\bin\Debug\net10.0\Question1.exe
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\bin\Debug\net10.0\Question1.deps.json
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\bin\Debug\net10.0\Question1.runtimeconfig.json
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\bin\Debug\net10.0\Question1.dll
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\bin\Debug\net10.0\Question1.pdb
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.AssemblyInfoInputs.cache
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.AssemblyInfo.cs
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.dll
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\refint\Question1.dll
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.pdb
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\Question1.genruntimeconfig.cache
+C:\Users\Group045\Desktop\.NET_Code\Assignment1\Question1\obj\Debug\net10.0\ref\Question1.dll

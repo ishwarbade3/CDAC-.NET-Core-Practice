@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Question1/Question1.csproj" />
+  <Project Path="Question2/Question2.csproj" />
+  <Project Path="Question3/Question3.csproj" />
+  <Project Path="Question4/Question4.csproj" />
+  <Project Path="Question5/Question5.csproj" />
+  <Project Path="Question6/Question6.csproj" />
+  <Project Path="Question7/Question7.csproj" />
+  <Project Path="Question8/Question8.csproj" />
+  <Project Path="Question9/Question9.csproj" Id="4337985e-8cf3-4c7a-a70a-4fe84fd01e0b" />
+</Solution>

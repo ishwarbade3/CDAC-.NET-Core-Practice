@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4337985E-8CF3-4C7A-A70A-4FE84FD01E0B}|Question9\\Question9.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4337985E-8CF3-4C7A-A70A-4FE84FD01E0B}|Question9\\Question9.csproj|solutionrelative:question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072159F9-E124-9593-F3A0-86E1B8CA1501}|Question7\\Question7.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072159F9-E124-9593-F3A0-86E1B8CA1501}|Question7\\Question7.csproj|solutionrelative:question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAAA32-294B-1F4C-C3C3-104EA0AFB70A}|Question6\\Question6.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAAA32-294B-1F4C-C3C3-104EA0AFB70A}|Question6\\Question6.csproj|solutionrelative:question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CE008-234D-38A2-E712-78C6879ACFBA}|Question8\\Question8.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132CE008-234D-38A2-E712-78C6879ACFBA}|Question8\\Question8.csproj|solutionrelative:question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA5B99A-9E71-D0F1-DB58-DC471CA24FA0}|Question5\\Question5.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA5B99A-9E71-D0F1-DB58-DC471CA24FA0}|Question5\\Question5.csproj|solutionrelative:question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E11A5E-3990-EBC5-1029-B4D472EC0E9B}|Question4\\Question4.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E11A5E-3990-EBC5-1029-B4D472EC0E9B}|Question4\\Question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DFB0-CCB9-A6B1-89E9-6C92E8FED9E4}|Question3\\Question3.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DFB0-CCB9-A6B1-89E9-6C92E8FED9E4}|Question3\\Question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170EE994-017D-CDE4-B231-C093DAFF90E5}|Question2\\Question2.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170EE994-017D-CDE4-B231-C093DAFF90E5}|Question2\\Question2.csproj|solutionrelative:question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB4AC1-8DFB-2643-26AA-3E04A8CC615E}|Question1\\Question1.csproj|c:\\users\\group045\\desktop\\.net_code\\assignment1\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB4AC1-8DFB-2643-26AA-3E04A8CC615E}|Question1\\Question1.csproj|solutionrelative:question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question9\\Program.cs",
+              "RelativeDocumentMoniker": "Question9\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question9\\Program.cs",
+              "RelativeToolTip": "Question9\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T11:29:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question8\\Program.cs",
+              "RelativeDocumentMoniker": "Question8\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question8\\Program.cs",
+              "RelativeToolTip": "Question8\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T11:03:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question7\\Program.cs",
+              "RelativeDocumentMoniker": "Question7\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question7\\Program.cs",
+              "RelativeToolTip": "Question7\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:44:56.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question6\\Program.cs",
+              "RelativeDocumentMoniker": "Question6\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question6\\Program.cs",
+              "RelativeToolTip": "Question6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:38:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question5\\Program.cs",
+              "RelativeDocumentMoniker": "Question5\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question5\\Program.cs",
+              "RelativeToolTip": "Question5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:32:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question4\\Program.cs",
+              "RelativeDocumentMoniker": "Question4\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question4\\Program.cs",
+              "RelativeToolTip": "Question4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:28:13.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question3\\Program.cs",
+              "RelativeDocumentMoniker": "Question3\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question3\\Program.cs",
+              "RelativeToolTip": "Question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:25:50.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question2\\Program.cs",
+              "RelativeDocumentMoniker": "Question2\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question2\\Program.cs",
+              "RelativeToolTip": "Question2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:05:11.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question1\\Program.cs",
+              "RelativeDocumentMoniker": "Question1\\Program.cs",
+              "ToolTip": "C:\\Users\\Group045\\Desktop\\.NET_Code\\Assignment1\\Question1\\Program.cs",
+              "RelativeToolTip": "Question1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:04:00.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

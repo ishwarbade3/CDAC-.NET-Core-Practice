@@ -1,0 +1,14 @@
+C:\.NET_CSharp\Assignment_1\Question12\bin\Debug\net10.0\Question12.exe
+C:\.NET_CSharp\Assignment_1\Question12\bin\Debug\net10.0\Question12.deps.json
+C:\.NET_CSharp\Assignment_1\Question12\bin\Debug\net10.0\Question12.runtimeconfig.json
+C:\.NET_CSharp\Assignment_1\Question12\bin\Debug\net10.0\Question12.dll
+C:\.NET_CSharp\Assignment_1\Question12\bin\Debug\net10.0\Question12.pdb
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.AssemblyInfoInputs.cache
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.AssemblyInfo.cs
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.csproj.CoreCompileInputs.cache
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.dll
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\refint\Question12.dll
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.pdb
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\Question12.genruntimeconfig.cache
+C:\.NET_CSharp\Assignment_1\Question12\obj\Debug\net10.0\ref\Question12.dll

@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="../Assignment1/Question2/Question2.csproj" />
+  <Project Path="../Assignment1/Question3/Question3.csproj" />
+  <Project Path="../Assignment1/Question4/Question4.csproj" />
+  <Project Path="../Assignment1/Question5/Question5.csproj" />
+  <Project Path="../Assignment1/Question6/Question6.csproj" />
+  <Project Path="../Assignment1/Question7/Question7.csproj" />
+  <Project Path="../Assignment1/Question8/Question8.csproj" />
+  <Project Path="../Assignment1/Question9/Question9.csproj" />
+  <Project Path="Question1/Question1.csproj" />
+  <Project Path="Question12/Question12.csproj" Id="12803266-94d0-4aa3-bd61-aeb386c5e1e6" />
+  <Project Path="Question_10/Question_10.csproj" Id="02e60dc6-053e-4c4f-b913-8f54d5355e76" />
+  <Project Path="Question_11/Question_11.csproj" Id="8d0118c0-5c8a-4814-9451-b74f2fecdf80" />
+  <Project Path="Question_13/Question_13.csproj" Id="046cbf0e-6fc6-42d0-88e9-53c61c808812" />
+  <Project Path="Question_14/Question_14.csproj" Id="b75d999d-9b2d-4e26-8fdc-4907259641b8" />
+  <Project Path="Question_15/Question_15.csproj" Id="2e926bb2-f97c-4547-b9f2-aac5f11a59e3" />
+  <Project Path="Question_16/Question_16.csproj" Id="44011569-e750-4e3c-a7a9-50fa49c3b58d" />
+</Solution>
