@@ -1,0 +1,15 @@
+C:\.NET_CSharp\CollectionAssignment\StackDemo\bin\Debug\net10.0\StackDemo.exe
+C:\.NET_CSharp\CollectionAssignment\StackDemo\bin\Debug\net10.0\StackDemo.deps.json
+C:\.NET_CSharp\CollectionAssignment\StackDemo\bin\Debug\net10.0\StackDemo.runtimeconfig.json
+C:\.NET_CSharp\CollectionAssignment\StackDemo\bin\Debug\net10.0\StackDemo.dll
+C:\.NET_CSharp\CollectionAssignment\StackDemo\bin\Debug\net10.0\StackDemo.pdb
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.AssemblyInfoInputs.cache
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.AssemblyInfo.cs
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.csproj.CoreCompileInputs.cache
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.sourcelink.json
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.dll
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\refint\StackDemo.dll
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.pdb
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\StackDemo.genruntimeconfig.cache
+C:\.NET_CSharp\CollectionAssignment\StackDemo\obj\Debug\net10.0\ref\StackDemo.dll

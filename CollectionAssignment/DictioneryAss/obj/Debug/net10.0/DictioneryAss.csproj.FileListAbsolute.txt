@@ -1,0 +1,15 @@
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\bin\Debug\net10.0\DictioneryAss.exe
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\bin\Debug\net10.0\DictioneryAss.deps.json
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\bin\Debug\net10.0\DictioneryAss.runtimeconfig.json
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\bin\Debug\net10.0\DictioneryAss.dll
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\bin\Debug\net10.0\DictioneryAss.pdb
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.AssemblyInfoInputs.cache
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.AssemblyInfo.cs
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.csproj.CoreCompileInputs.cache
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.sourcelink.json
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.dll
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\refint\DictioneryAss.dll
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.pdb
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\DictioneryAss.genruntimeconfig.cache
+C:\.NET_CSharp\CollectionAssignment\DictioneryAss\obj\Debug\net10.0\ref\DictioneryAss.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DictioneryAss/DictioneryAss.csproj" />
+  <Project Path="ListDemo/ListDemo.csproj" />
+  <Project Path="QueueDemo/QueueDemo.csproj" />
+  <Project Path="StackDemo/StackDemo.csproj" />
+</Solution>
