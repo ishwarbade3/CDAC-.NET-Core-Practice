@@ -1,0 +1,15 @@
+C:\.NET_CSharp\FileAssignment\FileDemo\bin\Debug\net10.0\FileDemo.exe
+C:\.NET_CSharp\FileAssignment\FileDemo\bin\Debug\net10.0\FileDemo.deps.json
+C:\.NET_CSharp\FileAssignment\FileDemo\bin\Debug\net10.0\FileDemo.runtimeconfig.json
+C:\.NET_CSharp\FileAssignment\FileDemo\bin\Debug\net10.0\FileDemo.dll
+C:\.NET_CSharp\FileAssignment\FileDemo\bin\Debug\net10.0\FileDemo.pdb
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.AssemblyInfoInputs.cache
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.AssemblyInfo.cs
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.csproj.CoreCompileInputs.cache
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.sourcelink.json
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.dll
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\refint\FileDemo.dll
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.pdb
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\FileDemo.genruntimeconfig.cache
+C:\.NET_CSharp\FileAssignment\FileDemo\obj\Debug\net10.0\ref\FileDemo.dll

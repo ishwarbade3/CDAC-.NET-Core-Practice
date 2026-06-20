@@ -15,4 +15,6 @@
   <Project Path="Question_14/Question_14.csproj" Id="b75d999d-9b2d-4e26-8fdc-4907259641b8" />
   <Project Path="Question_15/Question_15.csproj" Id="2e926bb2-f97c-4547-b9f2-aac5f11a59e3" />
   <Project Path="Question_16/Question_16.csproj" Id="44011569-e750-4e3c-a7a9-50fa49c3b58d" />
+  <Project Path="Question_17/Question_17.csproj" Id="b3c6ad1d-fe4b-4674-a095-48d3fc016c0f" />
+  <Project Path="Question_18/Question_18.csproj" Id="04deca8f-6993-4b9a-880b-0d815d970c61" />
 </Solution>

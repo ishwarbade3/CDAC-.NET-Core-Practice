@@ -1,0 +1,15 @@
+C:\.NET_CSharp\CompositionAggregation\Assignment\bin\Debug\net10.0\Assignment.exe
+C:\.NET_CSharp\CompositionAggregation\Assignment\bin\Debug\net10.0\Assignment.deps.json
+C:\.NET_CSharp\CompositionAggregation\Assignment\bin\Debug\net10.0\Assignment.runtimeconfig.json
+C:\.NET_CSharp\CompositionAggregation\Assignment\bin\Debug\net10.0\Assignment.dll
+C:\.NET_CSharp\CompositionAggregation\Assignment\bin\Debug\net10.0\Assignment.pdb
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.AssemblyInfoInputs.cache
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.AssemblyInfo.cs
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.csproj.CoreCompileInputs.cache
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.sourcelink.json
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.dll
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\refint\Assignment.dll
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.pdb
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\Assignment.genruntimeconfig.cache
+C:\.NET_CSharp\CompositionAggregation\Assignment\obj\Debug\net10.0\ref\Assignment.dll

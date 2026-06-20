@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\.NET_CSharp\\CollectionAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AF7EC12-6BD5-47BA-B0E6-25A86AE08258}|QueueDemo\\QueueDemo.csproj|c:\\.net_csharp\\collectionassignment\\queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AF7EC12-6BD5-47BA-B0E6-25A86AE08258}|QueueDemo\\QueueDemo.csproj|solutionrelative:queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DD8EE63-59F3-2AD4-EB08-857D15B39707}|QueueDemo\\QueueDemo.csproj|c:\\.net_csharp\\collectionassignment\\queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD8EE63-59F3-2AD4-EB08-857D15B39707}|QueueDemo\\QueueDemo.csproj|solutionrelative:queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F980FC7-84D5-4CE3-9745-4103DD9B5C51}|DictioneryAss\\DictioneryAss.csproj|c:\\.net_csharp\\collectionassignment\\dictioneryass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F980FC7-84D5-4CE3-9745-4103DD9B5C51}|DictioneryAss\\DictioneryAss.csproj|solutionrelative:dictioneryass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DD8EE63-59F3-2AD4-EB08-857D15B39707}|QueueDemo\\QueueDemo.csproj|c:\\.net_csharp\\collectionassignment\\queuedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD8EE63-59F3-2AD4-EB08-857D15B39707}|QueueDemo\\QueueDemo.csproj|solutionrelative:queuedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AF7EC12-6BD5-47BA-B0E6-25A86AE08258}|QueueDemo\\QueueDemo.csproj|c:\\.net_csharp\\collectionassignment\\queuedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AF7EC12-6BD5-47BA-B0E6-25A86AE08258}|QueueDemo\\QueueDemo.csproj|solutionrelative:queuedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE192C9-47EE-1416-816D-9E7C1CCFC886}|StackDemo\\StackDemo.csproj|c:\\.net_csharp\\collectionassignment\\stackdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE192C9-47EE-1416-816D-9E7C1CCFC886}|StackDemo\\StackDemo.csproj|solutionrelative:stackdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F980FC7-84D5-4CE3-9745-4103DD9B5C51}|DictioneryAss\\DictioneryAss.csproj|c:\\.net_csharp\\collectionassignment\\dictioneryass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F980FC7-84D5-4CE3-9745-4103DD9B5C51}|DictioneryAss\\DictioneryAss.csproj|solutionrelative:dictioneryass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE192C9-47EE-1416-816D-9E7C1CCFC886}|StackDemo\\StackDemo.csproj|c:\\.net_csharp\\collectionassignment\\stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE192C9-47EE-1416-816D-9E7C1CCFC886}|StackDemo\\StackDemo.csproj|solutionrelative:stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03B9BE59-5CDD-4857-95BF-995CC346008C}|StackDemo\\StackDemo.csproj|c:\\.net_csharp\\collectionassignment\\stackdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B9BE59-5CDD-4857-95BF-995CC346008C}|StackDemo\\StackDemo.csproj|solutionrelative:stackdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{442A8BBC-B2B8-CF45-BE51-991A9EF9CB22}|ListDemo\\ListDemo.csproj|c:\\.net_csharp\\collectionassignment\\listdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442A8BBC-B2B8-CF45-BE51-991A9EF9CB22}|ListDemo\\ListDemo.csproj|solutionrelative:listdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03B9BE59-5CDD-4857-95BF-995CC346008C}|StackDemo\\StackDemo.csproj|c:\\.net_csharp\\collectionassignment\\stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B9BE59-5CDD-4857-95BF-995CC346008C}|StackDemo\\StackDemo.csproj|solutionrelative:stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{442A8BBC-B2B8-CF45-BE51-991A9EF9CB22}|ListDemo\\ListDemo.csproj|c:\\.net_csharp\\collectionassignment\\listdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442A8BBC-B2B8-CF45-BE51-991A9EF9CB22}|ListDemo\\ListDemo.csproj|solutionrelative:listdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A068155B-261C-4FE4-88A6-DDB31BF6E78B}|ListDemo\\ListDemo.csproj|c:\\.net_csharp\\collectionassignment\\listdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A068155B-261C-4FE4-88A6-DDB31BF6E78B}|ListDemo\\ListDemo.csproj|solutionrelative:listdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{952A5ACC-6236-4A70-CB23-4AF5464050CB}|DictioneryAss\\DictioneryAss.csproj|c:\\.net_csharp\\collectionassignment\\dictioneryass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952A5ACC-6236-4A70-CB23-4AF5464050CB}|DictioneryAss\\DictioneryAss.csproj|solutionrelative:dictioneryass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A068155B-261C-4FE4-88A6-DDB31BF6E78B}|ListDemo\\ListDemo.csproj|c:\\.net_csharp\\collectionassignment\\listdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A068155B-261C-4FE4-88A6-DDB31BF6E78B}|ListDemo\\ListDemo.csproj|solutionrelative:listdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{952A5ACC-6236-4A70-CB23-4AF5464050CB}|DictioneryAss\\DictioneryAss.csproj|c:\\.net_csharp\\collectionassignment\\dictioneryass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952A5ACC-6236-4A70-CB23-4AF5464050CB}|DictioneryAss\\DictioneryAss.csproj|solutionrelative:dictioneryass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\QueueDemo\\Employee.cs",
               "RelativeDocumentMoniker": "QueueDemo\\Employee.cs",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "QueueDemo\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:01:31.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:01:31.536Z"
             },
             {
               "$type": "Document",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\StackDemo\\Book.cs",
               "RelativeDocumentMoniker": "StackDemo\\Book.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "StackDemo\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:31:39.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T11:31:39.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\StackDemo\\Program.cs",
               "RelativeDocumentMoniker": "StackDemo\\Program.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "StackDemo\\Program.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAowCQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:31:25.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T11:31:25.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\ListDemo\\Customer.cs",
               "RelativeDocumentMoniker": "ListDemo\\Customer.cs",
@@ -106,12 +103,11 @@
               "RelativeToolTip": "ListDemo\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:09:39.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T11:09:39.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\ListDemo\\Program.cs",
               "RelativeDocumentMoniker": "ListDemo\\Program.cs",
@@ -119,12 +115,11 @@
               "RelativeToolTip": "ListDemo\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:09:15.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T11:09:15.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\DictioneryAss\\Employee.cs",
               "RelativeDocumentMoniker": "DictioneryAss\\Employee.cs",
@@ -132,12 +127,11 @@
               "RelativeToolTip": "DictioneryAss\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T10:17:49.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T10:17:49.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.NET_CSharp\\CollectionAssignment\\DictioneryAss\\Program.cs",
               "RelativeDocumentMoniker": "DictioneryAss\\Program.cs",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "DictioneryAss\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T10:17:07.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T10:17:07.417Z"
             }
           ]
         }
