@@ -16,7 +16,7 @@ namespace ShoppingApplication.Models
         [MaxLength(200,ErrorMessage ="Maximum only 200 Charecter is Allowed in field")]
         public string CategoryDescription { get; set; }
 
-        public ICollection<Product> products { get; set; }
+        public ICollection<Product> Product { get; set; } = new List<Product>();
 
     }
 }
