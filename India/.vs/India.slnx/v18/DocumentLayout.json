@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET_CSharp\\India\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3905844-3D47-476B-AFED-1EE249AB6BE3}|Asia\\Asia.csproj|c:\\.net_csharp\\india\\asia\\yourasia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3905844-3D47-476B-AFED-1EE249AB6BE3}|Asia\\Asia.csproj|solutionrelative:asia\\yourasia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3905844-3D47-476B-AFED-1EE249AB6BE3}|Asia\\Asia.csproj|c:\\.net_csharp\\india\\asia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3905844-3D47-476B-AFED-1EE249AB6BE3}|Asia\\Asia.csproj|solutionrelative:asia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|c:\\.net_csharp\\india\\india\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|solutionrelative:india\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|c:\\.net_csharp\\india\\india\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|solutionrelative:india\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|c:\\.net_csharp\\india\\india\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|solutionrelative:india\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|c:\\.net_csharp\\india\\india\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2112AECD-F451-4348-9F1D-CD4847534C8D}|India\\India.csproj|solutionrelative:india\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NET_CSharp\\India\\India\\Class1.cs",
+              "RelativeDocumentMoniker": "India\\Class1.cs",
+              "ToolTip": "C:\\.NET_CSharp\\India\\India\\Class1.cs",
+              "RelativeToolTip": "India\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T09:49:56.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\.NET_CSharp\\India\\India\\Class2.cs",
+              "RelativeDocumentMoniker": "India\\Class2.cs",
+              "ToolTip": "C:\\.NET_CSharp\\India\\India\\Class2.cs",
+              "RelativeToolTip": "India\\Class2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T09:50:11.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\.NET_CSharp\\India\\India\\Class3.cs",
+              "RelativeDocumentMoniker": "India\\Class3.cs",
+              "ToolTip": "C:\\.NET_CSharp\\India\\India\\Class3.cs",
+              "RelativeToolTip": "India\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T09:50:23.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\.NET_CSharp\\India\\India\\Class4.cs",
+              "RelativeDocumentMoniker": "India\\Class4.cs",
+              "ToolTip": "C:\\.NET_CSharp\\India\\India\\Class4.cs",
+              "RelativeToolTip": "India\\Class4.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T09:50:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NET_CSharp\\India\\Asia\\Class1.cs",
+              "RelativeDocumentMoniker": "Asia\\Class1.cs",
+              "ToolTip": "C:\\.NET_CSharp\\India\\Asia\\Class1.cs",
+              "RelativeToolTip": "Asia\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T10:03:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YourAsia.cs",
+              "DocumentMoniker": "C:\\.NET_CSharp\\India\\Asia\\YourAsia.cs",
+              "RelativeDocumentMoniker": "Asia\\YourAsia.cs",
+              "ToolTip": "C:\\.NET_CSharp\\India\\Asia\\YourAsia.cs",
+              "RelativeToolTip": "Asia\\YourAsia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T10:08:01.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

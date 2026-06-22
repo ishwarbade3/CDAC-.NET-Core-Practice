@@ -9,44 +9,103 @@ namespace ShoppingApplication
         {
             using var db = new ShoppingAppDbContext();
 
-            var cart = db.Carts.FirstOrDefault();
+            // CATEGORY
+            //var category = new Category
+            //{
+            //    CategoryName = "Electronics",
+            //    CategoryDescription = "Electronic Products"
+            //};
 
-            if (cart == null)
+            ////db.Categories.Add(category);
+            //db.SaveChanges();
+
+            //// PRODUCTS
+            //var product1 = new Product
+            //{
+            //    ProductName = "Laptop",
+            //    ProductDescription = "Dell Inspiron",
+            //    UnitPrice = 50000,
+            //    Quantity = 10,
+            //    CategoryId = category.CategoryId
+            //};
+
+            //var product2 = new Product
+            //{
+            //    ProductName = "Mouse",
+            //    ProductDescription = "Wireless Mouse",
+            //    UnitPrice = 1000,
+            //    Quantity = 50,
+            //    CategoryId = category.CategoryId
+            //};
+
+            //db.Products.Add(product1);
+            //db.Products.Add(product2);
+            //db.SaveChanges();
+
+            //// CUSTOMER
+            //var customer = new Customer
+            //{
+            //    CustomerName = "Ishwar Bade",
+            //    CustomerCity = "Pune"
+            //};
+
+            //db.Customers.Add(customer);
+            //db.SaveChanges();
+
+            //// CART
+            //var cart = new Cart
+            //{
+            //    CustomerId = customer.CustomerId
+            //};
+
+            //db.Carts.Add(cart);
+            //db.SaveChanges();
+
+            //// CART ITEMS
+            //var item1 = new CartItem
+            //{
+            //    CartId = cart.CartId,
+            //    ProductId = product1.ProductId,
+            //    Quantity = 1
+            //};
+
+            //var item2 = new CartItem
+            //{
+            //    CartId = cart.CartId,
+            //    ProductId = product2.ProductId,
+            //    Quantity = 2
+            //};
+
+            //db.CartItems.Add(item1);
+            //db.CartItems.Add(item2);
+            //db.SaveChanges();
+
+            //// INVOICE
+            //var invoice = new Invoice
+            //{
+            //    CartId = cart.CartId
+            //};
+
+            //db.Invoices.Add(invoice);
+            //db.SaveChanges();
+
+            //Console.WriteLine($"Invoice Created : {invoice.InvoiceId}");
+
+            // PRINT INVOICE
+
+            Console.Write("Enter Invoice Number: ");
+
+            if (int.TryParse(Console.ReadLine(), out int invoiceId))
             {
-                Console.WriteLine("No cart found in database.");
-                return;
+                PrintInvoice(db, invoiceId);
             }
-
-            // Create invoice
-            var invoice = new Invoice
+            else
             {
-                CartId = 2
-            };
-
-            db.Invoices.Add(invoice);
-            db.SaveChanges();
-
-
-            invoice = new Invoice
-            {
-                CartId = 1
-            };
-
-            db.Invoices.Add(invoice);
-
-            db.SaveChanges();
-
-            var invoices = db.Invoices.Where(invoice => invoice.CartId == 2).Select(c => new { c.InvoiceId, c.CartId }).ToList();
-            
-
-            Console.WriteLine($"Invoice Created Successfully. Invoice No = {invoice.InvoiceId}");
-            Console.WriteLine(invoices);
-
-           // PrintInvoice(db, invoice.InvoiceId);
+                Console.WriteLine("Invalid Invoice Number!");
+            }
         }
-        
 
-        static void PrintInvoice(ShoppingAppDbContext db, int invoiceId)
+         static void PrintInvoice(ShoppingAppDbContext db, int invoiceId)
         {
             var invoice = db.Invoices.FirstOrDefault(i => i.InvoiceId == invoiceId);
 

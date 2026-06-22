@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Asia/Asia.csproj" />
+  <Project Path="India/India.csproj" />
+</Solution>
