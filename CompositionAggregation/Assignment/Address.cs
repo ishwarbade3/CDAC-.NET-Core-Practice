@@ -8,9 +8,6 @@ internal class Address
 
     public int zipcode { get; set; }
     public Geo geo { get; set; } =new Geo();
-
-
-
     public Address()
     {
         
